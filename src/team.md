@@ -90,6 +90,7 @@ const members = [
     title: '运维工程师',
     links: [
       { icon: {svg: home_icon}, link: 'https://laffey.cc/' }
+    ]
   },
   {
     avatar: XianhongtaoAvatar,
