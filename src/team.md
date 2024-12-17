@@ -115,11 +115,4 @@ const members = [
   />
 </VPTeamPage>
 
-<style>
-@media (min-width: 642px) {
-  .container .item:first-child {
-    grid-column-start: 2;
-  }
-}
-
 </style>
