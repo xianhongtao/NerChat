@@ -114,5 +114,3 @@ const members = [
     :members="members"
   />
 </VPTeamPage>
-
-</style>
