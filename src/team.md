@@ -70,7 +70,7 @@ const members = [
   {
     avatar: CikarosAvatar,
     name: 'Cikaros',
-    title: '运维工程师/技术编辑',
+    title: '开发者/运维工程师/技术编辑',
     links: [
       { icon: 'github', link: 'https://github.com/Cikaros/' },
       { icon: {svg: home_icon}, link: 'https://blog.cikaros.top/'}
@@ -95,7 +95,7 @@ const members = [
   {
     avatar: XianhongtaoAvatar,
     name: 'xianhongtao',
-    title: '实习',
+    title: '客户经理/技术编辑',
     links: [
       { icon: 'github', link: 'https://github.com/xianhongtao' }
     ]
