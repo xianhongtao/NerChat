@@ -19,7 +19,7 @@ NerChat!的Web端仅支持桌面浏览器使用，移动端访问NerChat!请使�
 | 使用环境            | 推荐客户端  |  官方客户端  |
 | :----:            | :--------: | :--------: |
 |Web                |[chat.neboer.site](https://chat.neboer.site)|[app.element.io](https://app.element.io)|
-|Windows/Linux/MacOS|  Element Desktop   | [Element Desktop](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe)|
+|Windows/Linux/MacOS|  [Element Desktop](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe)  | [Element Desktop](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe)|
 |Android            |  [Nelement](nelement)    | [Element Android](https://f-droid.org/packages/im.vector.app/) |
 |IOS                | Element IOS          | [Element IOS](https://matrix.org/docs/projects/client/element-ios)     |
 
