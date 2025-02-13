@@ -2,7 +2,7 @@
 
 为了方便更多安卓用户，我们在Element Android源代码的基础上做了简单的修改，发布了Nelement，旨在打破Element无法更改的默认服务器设置给中国用户带来的不便。在某种意义上来说，Nelement在某种意义上代表了NerChat!聊天平台的立场。
 
-Element Android是开源软件，Nelement也是开源软件。再次重申：Nelement的源代码可以在 [github.com/Neboer/Nelement](https://github.com/Neboer/Nelement) 上找到。Nelement与Element Android使用相同的开源协议，但家服务器配置与Element Android不同，可以让中国大陆的朋友打开软件即可连接到NerChat!，而无需等待Element中直连失败超时再调整服务器地址。
+Element Android是开源软件，Nelement也是开源软件。Nelement的源代码可以在 [github.com/Neboer/Nelement](https://github.com/Neboer/Nelement) 上找到。Nelement与Element Android使用相同的开源协议，但家服务器配置与Element Android不同，可以让中国大陆的朋友打开软件默认连接到NerChat!，而无需等待连接到Element超时失败后再调整服务器地址。
 
 Nelement的唯一发布渠道是GitHub Release，我们不提供任何应用商店下载/GooglePlay下载/付费下载/网盘下载方法。根据Apache协议的约束，您可以在保证安装包完整的前提下自由分发Nelement的源代码和可安装软件。
 
