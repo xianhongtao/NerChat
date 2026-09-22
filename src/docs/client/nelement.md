@@ -4,7 +4,7 @@
 
 ## 软件概述
 
-Nelement是Neboer在Apache开源协议的许可下基于Element Android的源代码进行一些修改后发布的一款开源Matrix客户端，可以在中国大陆内直接使用，默认连接到NerChat!，适配Android操作系统。Neboer承诺会持续更新这个软件。
+Nelement 是 Neboer 在 Apache 开源协议许可下，基于 Element Android 源码修改发布的开源 Matrix 客户端，适配 Android 系统，在中国大陆可以直接使用，默认连接 NerChat!。Neboer 会持续更新这个软件。
 
 ## 软件信息
 
@@ -16,12 +16,12 @@ Nelement是Neboer在Apache开源协议的许可下基于Element Android的源代
 
 ## 软件下载
 
-请前往release页面下载最新版本的软件。
+请到 Release 页面下载最新版本。
 
 [Github release](https://github.com/Neboer/Nelement/releases)
 
 ## 软件更新方法
 
-Nelement新版本发布后，会在大群中统一公布新版本到来的消息。同时，你也可以直接前往GitHub Release页面进行下载。
+Nelement 发布新版本后，我们会在大群中统一通知；您也可以直接前往 GitHub Release 页面下载。
 
 有关软件的具体更新流程，可以参考 [Nelement代码审查](../security/nelement-security#Nelement代码审查) 一节。

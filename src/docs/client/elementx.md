@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD026 -->
-# 使用ElementX连接NerChat!
+# 使用 Element X 连接 NerChat!
 <!-- markdownlint-enable MD026 -->
 
 <!-- markdownlint-disable MD033 -->
@@ -10,12 +10,12 @@
 </div>
 <!-- markdownlint-enable MD033 -->
 
-打开ElementX应用
+1. 打开 Element X。
 
-选择 `手动登录`
+2. 选择 `手动登录`。
 
-选择 `更改账户提供方`
+3. 选择 `更改账户提供方`。
 
-在服务器地址一栏输入 `chat.neboer.site`
+4. 在服务器地址一栏填入 `chat.neboer.site`。
 
-点击 `继续` 后跟随引导输入账号密码完成登录流程即可连接到NerChat!。
+5. 点击 `继续`，按引导输入账号密码完成登录，即可连接到 NerChat!。

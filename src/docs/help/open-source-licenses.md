@@ -1,6 +1,6 @@
 # 开源协议
 
-NerChat!是开源软件，对NerChat!的任何使用、开发、分发、修改、宣传、商业化等行为都需要遵守其开源协议。
+NerChat! 是开源软件，对其任何使用、开发、分发、修改、宣传或商业化行为，都需要遵守相应的开源协议。
 
 |软件名字|开源协议|
 |:--:|:--:|
@@ -9,7 +9,7 @@ NerChat!是开源软件，对NerChat!的任何使用、开发、分发、修改�
 
 ## 关于Apache License 2.0
 
-Apache License 2.0的原文可以在[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)官网上找到。
+Apache License 2.0 的原文可以在[官网](https://www.apache.org/licenses/LICENSE-2.0)找到。
 
 （以下内容摘自[开源中国](https://www.oschina.net/question/12_2828)）
 
@@ -21,17 +21,17 @@ Apache Licence 是著名的非盈利开源组织 Apache 采用的协议。该协
 4. 如果再发布的产品中包含一个 Notice 文件，则在 Notice 文件中需要带有 Apache Licence。你可以在 Notice 中增加自己的许可，但不可以表现为对 Apache Licence 构成更改。
 5. Apache Licence 也是对商业应用友好的许可。使用者也可以在需要的时候修改代码来满足需要并作为开源或商业产品发布 / 销售。
 
-这个是发布在CSDN上的、关于Apache License的[中文翻译](https://blog.csdn.net/liumiaocn/article/details/107360719)。
+这是发布在 CSDN 上的 Apache License [中文翻译](https://blog.csdn.net/liumiaocn/article/details/107360719)。
 
-除原文外，中文翻译和中文简述不具有法律效力，仅供参考。当与原文冲突时，协议内容以原文为准。
+除原文外，中文翻译和简述不具有法律效力，仅供参考；与原文冲突时，以原文为准。
 
 ## ⚠️补充说明
 
-有关详细的用户须知，请参考[用户协议](terms-of-usage)。这里对Apache开源协议做出一些补充解释，希望能规范NerChat!的使用及许可等内容。
+详细的用户须知请参考[用户协议](terms-of-usage)。以下是对 Apache 开源协议的一些补充说明，用以规范 NerChat! 的使用与许可。
 
 1. Nelement是免费软件，**禁止任何形式的付费分发**。如果您发现有人在付费分发此软件，请直接在大群中报告，UntilSoftware的成员会响应您的报告。如果您在获得此软件的过程中付费，则说明您很可能被骗了。
 2. 在分发Nelement时，**严禁对安装包进行任何形式的修改**（如有修改，请开源+说明+提及Element Android和Nelement），严禁在修改包名或重签名后分发Nelement。
-3. 您可以制作其他**默认**使用NerChat!的家服务器matrix.neboer.site/chat.neboer.site的其他客户端或网站，但您务必提到NerChat!与您所提供的服务无任何直接关系。如果您所提供的服务并未默认设定NerChat!为默认网站，则可以不声明。
+3. 您可以制作其他**默认**使用 NerChat! 家服务器（`matrix.neboer.site` / `chat.neboer.site`）的客户端或网站，但必须说明其与 NerChat! 没有任何直接关系；如果没有把 NerChat! 设为默认，则无需声明。
 4. NerChat!和Nelement软件所使用的图标（绿色背景下的Hebrew字母Aleph）是NerChat!的知识产权，版权声明如下：
 
     ```License

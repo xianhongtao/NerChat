@@ -4,27 +4,27 @@
 
 欢迎加入NerChat!
 
-NerChat!是由UntilSoftware以学习交流为目的搭建的一个开放的网络聊天室，旨在提供安全、隐私、稳定、可靠、自由、便捷的网络聊天服务。
+NerChat! 由 UntilSoftware 以学习交流为目的搭建，希望提供一个安全、稳定、自由、好用的聊天空间。
 
-NerChat!基于Matrix和Element开源生态经过修改和部署而来，旨在保留Matrix生态软件优秀的特性的同时，最大程度上降低国内用户的使用门槛。
+NerChat! 基于 Matrix 和 Element 开源生态修改、部署而来，在保留 Matrix 生态优秀特性的同时，尽可能降低国内用户的使用门槛。
 
-继承了Element的便捷性，NerChat!的多平台支持相当完善，你可以使用任何你喜欢的客户端和兼容Matrix协议的软件连接到NerChat!主服务器chat.neboer.site，直接开始安全且无门槛的加密聊天。
+沿用 Element 的便捷体验，NerChat! 的多平台支持也相当完善：您可以用任何喜欢的客户端，或任何兼容 Matrix 协议的软件连接主服务器 chat.neboer.site，直接开始安全、无门槛的加密聊天。
 
-同时，NerChat!还继承了Matrix的安全性，你可以在NerChat!上发送经过非对称加密的消息，在密码学上保证了除了消息参与者以外没有任何人可以获知你的消息内容，这甚至包括了服务器本身。详情请参阅[安全](../security/security-and-encryption)介绍。
+NerChat! 也继承了 Matrix 的安全性：在这里发送的消息经过非对称加密，从密码学上保证除消息参与者之外的任何人都无法获知消息内容——包括服务器本身。详情请参阅[安全](../security/security-and-encryption)介绍。
 
-NerChat!目前由UntilSoftware团队代为运营，有问题欢迎直接在群内反馈。
+NerChat! 目前由 UntilSoftware 团队代为运营，有问题欢迎直接在群里反馈。
 
-再次欢迎您加入NerChat!，请查阅下面的文档来了解NerChat!的基本使用方法。
+再次欢迎您加入 NerChat!，接下来的文档会为您介绍基本的使用方法。
 
 ::: warning
 
-NerChat!的官方站点[chat.neboer.site](https://chat.neboer.site)**不支持**移动设备，请不要用手机浏览器直接访问此站点，请考虑通过APP进行连接。
+NerChat! 的官方站点 [chat.neboer.site](https://chat.neboer.site) **不支持**移动设备，请勿用手机浏览器直接访问，改用 App 连接即可。
 
 :::
 
 ::: info
 
-注意，本文档中使用可以切换的选项卡来标记不同客户端的不同行为，你可以根据需要切换到你使用的客户端来查阅指南。
+本文档用可切换的选项卡区分不同客户端的操作差异，您可以切换到正在使用的客户端，再对照阅读。
 
 :::
 
@@ -32,12 +32,12 @@ NerChat!的官方站点[chat.neboer.site](https://chat.neboer.site)**不支持**
 
 ==Desktop/Web
 
-桌面端的指南，这包括了包括chat.neboer.site在内的Element web实例网站及Element Desktop应用。
+桌面端指南，覆盖 chat.neboer.site 等 Element Web 站点以及 Element Desktop 应用。
 
-Element Web和Element Desktop在使用体验上几乎没有不同，所以除非有特殊说明，否则二者的教程完全可以通用。
+两者的使用体验几乎没有差别，除特别说明外，本教程可以通用。
 
 ==Mobile
 
-移动端的指南，这包括了ElementX、[Nelement](../client/nelement)、Element Classic等常用的移动端Element客户端，ElementX是推荐的移动客户端。
+移动端指南，覆盖 Element X、[Nelement](../client/nelement)、Element Classic 等常用移动客户端，其中推荐使用 Element X。
 
 :::

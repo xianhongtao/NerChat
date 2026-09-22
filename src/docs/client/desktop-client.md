@@ -1,18 +1,18 @@
 # 桌面端指南
 
 <!-- <img src="./nelemer_icon.png" style="max-height: 100px; margin-top:16px"/> -->
-NerChat!的桌面端使用和Element官方相似的安装方法。你可以在中国大陆直接访问Element官方网站，下载官方客户端，并简单的修改一下配置文件，就可以默认直连NerChat!了。
+NerChat! 桌面端使用与 Element 官方相同的安装方式。在中国大陆可以直接访问 Element 官网，下载官方客户端，再改一下配置文件，就能默认连接 NerChat!。
 
 ## 安装指南
 
 1. [下载Element Desktop](https://element.io/download)
 2. 选择适合您操作系统的版本，并点击直接下载。
 3. 下载、运行，对Linux用户请使用下面的包管理说明，按提示安装到系统中。
-4. 此时不要打开软件——如果您不能访问Matrix主站的话，软件会报错。请先按指导添加配置文件到系统中，再打开：
+4. 此时先不要打开软件：如果不能访问 Matrix 主站，软件会报错。请先按下面的说明把配置文件添加到系统中，再打开。
 
 ## 配置方法
 
-在以下路径中新建一个文件`config.json`，将此内容保存其中
+在以下路径中新建 `config.json`，把下面的内容保存进去：
 
 ```json
 {
@@ -40,4 +40,4 @@ NerChat!的桌面端使用和Element官方相似的安装方法。你可以在�
 |Linux|$XDG_CONFIG_HOME/Element/config.json 或 ~/.config/Element/config.json|
 |MacOS|~/Library/Application Support/Element/config.json|
 
-配置放好后，请重新启动软件，就可以默认连接到NerChat!了。
+配置就绪后重启软件，就会默认连接到 NerChat!。
